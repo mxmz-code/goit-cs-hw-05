@@ -1,0 +1,7 @@
+argparse
+asyncio
+logging
+os
+aiopath
+aioshutil
+colorama
